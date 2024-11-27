@@ -7,9 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=DUQIA&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://info.flagcounter.com/Xa0f"><img src="https://s01.flagcounter.com/count2/Xa0f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 ![:name](https://count.getloli.com/@:DUQIA?theme=3d-num)
+
+<a href="https://info.flagcounter.com/Xa0f"><img src="https://s01.flagcounter.com/count2/Xa0f/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 [![Star History Chart](https://api.star-history.com/svg?repos=DUQIA/DUQIA&type=Date)](https://star-history.com/#DUQIA/DUQIA&Date)
 
